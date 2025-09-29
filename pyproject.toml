@@ -1,0 +1,13 @@
+[project]
+name = "mads-documentation-agents"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "crewai>=0.186.1",
+    "crewai-tools>=0.71.0",
+    "langchain-openai>=0.2.14",
+    "python-dotenv>=1.1.1",
+    "requests>=2.32.5",
+]
