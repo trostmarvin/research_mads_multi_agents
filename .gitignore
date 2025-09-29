@@ -9,10 +9,6 @@ wheels/
 # Virtual environments
 .venv
 
-# Environment variables
-.env
-*.env
-
 # Environments
 .env
 .venv
@@ -44,6 +40,3 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-
-# zyklen_archiv
-zyklen_archiv/
